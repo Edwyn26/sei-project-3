@@ -47,7 +47,7 @@ async function seedDatabase() {
     }
 
     const createdUsers = await User.create(users) // ! then pass that users array
-
+    //stuff
     console.log(`🤖 Created ${createdUsers.length} users`)
 
     const spaceDataWithOwners = spaceData.map(space => {
