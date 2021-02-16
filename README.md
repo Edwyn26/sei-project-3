@@ -54,3 +54,10 @@ After this initial phase, we discussed the tasks we needed to create the project
 * To add, the user can create a space and see their liked or created space on their profile page.
 * An explore page is shown with the user to have the ability to filter accordingly or see all the spaces. A category with a name and number of likes of a space when hovering.
 
+## Process
+
+## Wins
+
+## Key Learnings
+
+## Future Features
